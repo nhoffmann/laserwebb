@@ -2,8 +2,9 @@
 
 Light installation consisting of two rotating prism like optics illuminated by a light beam
 
-!(Picture of the whole setup)[images/Laserwebb_doc_setup_2.jpg]
-!(Closeup picture of the prism like optics mounted on stepper motors)[images/Laserwebb_doc_setup_1.jpg]
+![Picture of the whole setup](images/Laserwebb_doc_setup_2.jpg)
+
+![Closeup picture of the prism like optics mounted on stepper motors](images/Laserwebb_docs_setup_1.jpg)
 
 Uses the [TMC_2209_ESP32 and Micropython](https://github.com/kjk25/TMC2209_ESP32) library to drive the motor.
 
